@@ -1,0 +1,55 @@
+body {
+    font-family: "Roboto", sans-serif;
+    
+}
+
+.about, .contact {
+    padding: 30px 0;
+}
+
+
+.title-section {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+.text-section {
+    text-align: center;
+    font-size: 18px;
+    margin: 30px 0;
+}
+
+.card{
+    margin: 15px;
+    padding:10px;
+}
+
+.about-img{
+    width: 250px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.form-contact {
+    margin: 0 auto;
+}
+
+#nav-footer{
+    justify-content: center
+}
+
+/* início do css da page currículo */
+
+#about-me{
+    padding: 30px;
+}
+
+.skills{
+   margin-bottom: 60px;
+}
+
+.progress{
+    margin-bottom: 15px;
+}
